@@ -12,7 +12,7 @@ You will need to authorize a new application with reddit (this can be done at ht
 This will provide you with the client_id and secret for lines 5 and 6.
 
 # Disclaimer
-This was made to test out PRAW and is most likely considered spam. Most subreddits will ban your account and my test account was shadowbanned site-wide after 24 hours.
+This was made to test out PRAW and is most likely considered spam. Most subreddits will ban your account and my test account was shadowbanned site-wide after 24 hours. Update: after contacting the admins the account was unbanned as it was an error.
 
 Do not use this on an account you care about.
 
